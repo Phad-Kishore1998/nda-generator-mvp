@@ -1,0 +1,234 @@
+================================================================================
+NON-DISCLOSURE AGREEMENT
+Generated on: April 09, 2026
+================================================================================
+
+NOTICE: This document is AI-generated for evaluation purposes only. It does not constitute legal advice. Consult a qualified legal professional before using this document for any binding legal purpose.
+
+================================================================================
+
+SECTION 1: PURPOSE, PARTIES, AND CONTEXT
+
+1.1 This Non-Disclosure Agreement ("Agreement") is entered into on this 9th day of April, 2026 ("Effective Date") by and between:
+
+kishore ("Disclosing Party"), having its principal place of business at [Address to be inserted], and
+
+kvell ("Receiving Party"), having its principal place of business at [Address to be inserted].
+
+1.2 The Disclosing Party and the Receiving Party are referred to collectively as the "Parties".
+
+1.3 The purpose of this Agreement is to establish the terms and conditions under which the Disclosing Party will disclose confidential information to the Receiving Party, in connection with the employment relationship between the Parties, where kishore is hired at kvell.
+
+1.4 The Parties acknowledge that, in the course of their employment relationship, the Disclosing Party will share confidential information with the Receiving Party, including but not limited to, technical, financial, business, customer data, and legal information.
+
+1.5 The Parties understand that the confidential information to be shared is sensitive and valuable to the Disclosing Party, and that it is essential to protect such information from unauthorized disclosure.
+
+1.6 The Parties agree to maintain the confidentiality of the confidential information disclosed under this Agreement, and to use such information solely for the purpose of the employment relationship between the Parties.
+
+1.7 The Parties acknowledge that the employment relationship between them is a critical factor in the disclosure of confidential information, and that the terms and conditions of this Agreement are essential to protect the interests of both Parties.
+
+--------------------------------------------------------------------------------
+
+SECTION 2: DEFINITION OF CONFIDENTIAL INFORMATION
+
+2.1. For the purposes of this Agreement, "Confidential Information" means all information, whether written or oral, that is disclosed by kishore to kvell, including but not limited to:
+
+(a) Technical Information: all source code, algorithms, architecture, and other technical data and materials related to the development, design, and operation of software and technology products and services;
+
+(b) Financial Information: all financial projections, budgets, revenue data, and other financial information related to kishore's business operations;
+
+(c) Business Information: all business strategies, plans, market research, and other business-related information related to kishore's operations;
+
+(d) Customer Information: all customer names, contacts, purchase history, and other customer-related information;
+
+(e) Legal Information: all contracts, intellectual property filings, compliance documents, and other legal-related information.
+
+2.2. Confidential Information does not include information that:
+
+(a) is or becomes publicly available through no fault of kvell;
+
+(b) was already known to kvell prior to disclosure by kishore;
+
+(c) is developed by kvell independently of any information disclosed by kishore;
+
+(d) is required to be disclosed by law, regulation, or court order, provided that kvell gives kishore prompt written notice of such requirement and cooperates fully with kishore in seeking a protective order or other remedy.
+
+2.3. Confidential Information will be designated as such by kishore at the time of disclosure, and may be marked as "Confidential" or "Proprietary" or with a similar legend. In the absence of such designation, information will be considered Confidential Information if it is reasonably understood to be confidential or proprietary in nature.
+
+2.4. For the avoidance of doubt, Confidential Information includes, but is not limited to, all information that is contained in documents, records, and other materials that are marked as confidential or proprietary, as well as all information that is disclosed orally or visually.
+
+--------------------------------------------------------------------------------
+
+SECTION 3: CATEGORIES AND SCOPE OF CONFIDENTIAL INFORMATION
+
+3.1. The categories and scope of confidential information ("Confidential Information") disclosed by kishore to kvell include, but are not limited to, the following:
+
+(a) Technical Confidential Information: This includes, but is not limited to, source code, algorithms, architecture, software designs, technical specifications, and other technical data and information related to kvell's products and services.
+
+(b) Financial Confidential Information: This includes, but is not limited to, financial projections, budgets, revenue data, financial statements, and other financial information related to kvell's business operations.
+
+(c) Business Confidential Information: This includes, but is not limited to, business strategies, business plans, market research, marketing plans, and other business information related to kvell's operations.
+
+(d) Customer Confidential Information: This includes, but is not limited to, customer names, customer contacts, customer purchase history, and other customer-related information.
+
+(e) Legal Confidential Information: This includes, but is not limited to, contracts, intellectual property filings, compliance documents, and other legal information related to kvell's business operations.
+
+3.2. The Confidential Information may be disclosed in various formats, including, but not limited to:
+
+(a) Written documents, including, but not limited to, reports, memos, emails, and other written communications.
+
+(b) Oral discussions, including, but not limited to, meetings, presentations, and other verbal communications.
+
+(c) Digital media, including, but not limited to, electronic files, databases, and other digital information.
+
+3.3. The Confidential Information may be disclosed in various contexts, including, but not limited to:
+
+(a) Meetings and presentations.
+
+(b) Email communications.
+
+(c) Written reports and documents.
+
+(d) Digital media, including, but not limited to, electronic files and databases.
+
+3.4. The Confidential Information may be disclosed by kishore to kvell through various means, including, but not limited to:
+
+(a) In-person meetings.
+
+(b) Video conferencing.
+
+(c) Phone calls.
+
+(d) Email communications.
+
+3.5. The Confidential Information may be stored and maintained by kvell in various formats, including, but not limited to:
+
+(a) Electronic files and databases.
+
+(b) Written documents and reports.
+
+(c) Digital media, including, but not limited to, CDs, DVDs, and other digital storage devices.
+
+3.6. The Confidential Information may be disclosed to third parties by kvell only with the prior written consent of kishore, which consent may be revoked at any time.
+
+3.7. The Confidential Information shall be kept confidential and shall not be disclosed to any third party without the prior written consent of kishore, except as permitted under this Agreement or as required by law.
+
+--------------------------------------------------------------------------------
+
+SECTION 4: OBLIGATIONS OF THE RECEIVING PARTY
+
+4.1.  The Receiving Party shall keep the Confidential Information of kishore confidential and shall not disclose it to any third party without the prior written consent of kishore.
+
+4.2.  The Receiving Party shall use the Confidential Information solely for the purpose of performing its duties and obligations under the employment relationship with kishore, and shall not use it for any other purpose, including but not limited to, personal gain or benefit.
+
+4.3.  The Receiving Party shall take all necessary and reasonable measures to protect the Confidential Information from unauthorized disclosure or access, including but not limited to, ensuring that all employees, contractors, and agents who have access to the Confidential Information are aware of and agree to maintain its confidentiality.
+
+4.4.  The Receiving Party shall ensure that all employees, contractors, and agents who have access to the Confidential Information are bound by obligations of confidentiality and non-disclosure that are at least as restrictive as those set out in this Section 4.
+
+4.5.  The Receiving Party shall store the Confidential Information in a secure and confidential manner, and shall ensure that all physical and electronic storage facilities are secure and protected from unauthorized access.
+
+4.6.  The Receiving Party shall immediately notify kishore in writing if it becomes aware of any unauthorized disclosure or access to the Confidential Information, or if it suspects that the Confidential Information may have been compromised in any way.
+
+4.7.  The Receiving Party shall cooperate fully with kishore in any investigation or inquiry into any suspected unauthorized disclosure or access to the Confidential Information.
+
+4.8.  The Receiving Party shall not copy, reproduce, or transmit the Confidential Information except as necessary to perform its duties and obligations under the employment relationship with kishore.
+
+4.9.  The Receiving Party shall not remove or export the Confidential Information from India without the prior written consent of kishore.
+
+4.10. The Receiving Party shall not use any trade secrets or proprietary information of kishore for the benefit of any third party, including but not limited to, any competitor of kishore.
+
+--------------------------------------------------------------------------------
+
+SECTION 5: PERMITTED DISCLOSURES AND EXCEPTIONS
+
+5.1. Disclosure is permitted where kishore is compelled to disclose Confidential Information by law or by a court order, provided that kishore gives kvell prompt written notice of such requirement so that kvell may seek a protective order or other appropriate remedy.
+
+5.2. Disclosure is not required where the Confidential Information is or becomes publicly available through no fault of kvell, or where the Confidential Information was already in the public domain at the time of disclosure.
+
+5.3. Disclosure is not required where kvell independently develops the Confidential Information without reference to or reliance on the Confidential Information disclosed by kishore.
+
+5.4. Disclosure is permitted to kishore's advisors, including attorneys, accountants, and financial advisors, who have entered into confidentiality agreements with kishore, provided that such disclosure is necessary for the purpose of advising kishore and is made in accordance with the terms of such confidentiality agreements.
+
+5.5. Disclosure is permitted to kishore's affiliates, provided that such affiliates have entered into confidentiality agreements with kishore, and such disclosure is made in accordance with the terms of such confidentiality agreements.
+
+5.6. Disclosure is permitted where kishore is required to disclose Confidential Information to regulatory bodies or government agencies, provided that such disclosure is made in accordance with applicable laws and regulations.
+
+5.7. Disclosure is permitted where the Confidential Information is already in the possession of kvell, as demonstrated by kvell's written records, prior to its disclosure by kishore.
+
+5.8. Disclosure is permitted where the Confidential Information is publicly disclosed by a third party who has no obligation to keep such information confidential.
+
+5.9. Disclosure is permitted where the Confidential Information is disclosed to a successor or assignee of kvell, provided that such successor or assignee agrees to be bound by the terms of this Agreement.
+
+5.10. Disclosure is permitted where the Confidential Information is required to be disclosed under the laws of India, or under the laws of any other jurisdiction in which kishore or kvell operates, provided that such disclosure is made in accordance with applicable laws and regulations.
+
+--------------------------------------------------------------------------------
+
+SECTION 6: BREACH, REMEDIES, AND LIABILITY
+
+6.1.  Breach of Obligations. If the Receiving Party breaches any of the obligations set forth in this Agreement, the Disclosing Party shall be entitled to seek injunctive relief, specific performance, or any other equitable remedy available at law or in equity to prevent or remedy such breach. In addition to the foregoing, the Disclosing Party shall also be entitled to recover all damages, costs, and expenses (including reasonable attorneys' fees) incurred by the Disclosing Party in connection with the breach.
+
+6.2.  Remedies. The remedies provided in this Section 6 are cumulative and not exclusive of any other remedies available to the Disclosing Party at law or in equity. The Disclosing Party may pursue any and all remedies available to it under applicable law, including but not limited to, seeking damages, specific performance, or injunctive relief.
+
+6.3.  Indemnification. The Receiving Party shall indemnify, defend, and hold harmless the Disclosing Party, its officers, directors, employees, agents, and affiliates from and against any and all claims, demands, actions, suits, proceedings, judgments, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or related to any breach of this Agreement by the Receiving Party.
+
+6.4.  Limitation of Liability. In no event shall the Receiving Party be liable for any indirect, special, incidental, consequential, or punitive damages, including but not limited to, lost profits, business interruption, or loss of data, arising out of or related to this Agreement, even if the Receiving Party has been advised of the possibility of such damages. The Receiving Party's liability for damages arising out of or related to this Agreement shall be limited to the amount of actual damages suffered by the Disclosing Party, but in no event shall such liability exceed the aggregate amount of the fees paid by the Disclosing Party to the Receiving Party under this Agreement.
+
+6.5.  Governing Law. This Section 6 shall be governed by and construed in accordance with the laws of the Republic of India. Any disputes arising out of or related to this Section 6 shall be resolved through arbitration in accordance with the rules of the Indian Council of Arbitration, and the seat of arbitration shall be [Address to be inserted].
+
+--------------------------------------------------------------------------------
+
+SECTION 7: MISCELLANEOUS AND GENERAL LEGAL TERMS
+
+7.1. Entire Agreement. This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations, understandings, and agreements between the parties.
+
+7.2. Term and Termination. This Agreement shall commence on the Effective Date and shall continue for a period of three (3) years from the Effective Date, unless terminated earlier in accordance with the terms of this Agreement. Upon termination, all obligations of the parties under this Agreement shall cease, except for those obligations that by their nature are intended to survive termination.
+
+7.3. Return and Destruction of Information. Upon termination of this Agreement or upon request by the Disclosing Party, the Receiving Party shall promptly return to the Disclosing Party all Confidential Information in its possession, custody, or control, and shall destroy all copies of Confidential Information, including any notes, summaries, or other documents prepared by the Receiving Party.
+
+7.4. Entire Agreement. This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations, understandings, and agreements between the parties.
+
+7.5. Severability. If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions of this Agreement shall remain in full force and effect.
+
+7.6. Waiver. The failure of either party to enforce any provision of this Agreement shall not be deemed a waiver of such provision or of the right to enforce such provision in the future.
+
+7.7. Notices. All notices required or permitted to be given under this Agreement shall be in writing and shall be delivered personally, sent by certified mail, or sent by email to the addresses set forth below:
+
+kishore
+[Address to be inserted]
+
+kvell
+[Address to be inserted]
+
+7.8. Assignment. Neither party may assign this Agreement or any of its rights or obligations under this Agreement without the prior written consent of the other party.
+
+7.9. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of India.
+
+7.10. Dispute Resolution. Any disputes arising out of or in connection with this Agreement shall be resolved through arbitration in accordance with the rules of the Indian Arbitration and Conciliation Act, 1996.
+
+7.11. Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed to be an original, but all of which together shall constitute one and the same instrument.
+
+7.12. Amendments. This Agreement may not be amended or modified except in writing signed by both parties.
+
+--------------------------------------------------------------------------------
+
+SIGNATURE PAGE
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first written above.
+
+DISCLOSING PARTY:
+
+Signature: _______________________________
+Name:      _______________________________
+Title:     _______________________________
+Date:      _______________________________
+
+RECEIVING PARTY:
+
+Signature: _______________________________
+Name:      _______________________________
+Title:     _______________________________
+Date:      _______________________________
+
+================================================================================
+END OF AGREEMENT
+================================================================================

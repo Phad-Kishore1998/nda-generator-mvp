@@ -1,0 +1,53 @@
+SECTION 3: CATEGORIES AND SCOPE OF CONFIDENTIAL INFORMATION
+
+3.1. The categories and scope of confidential information ("Confidential Information") disclosed by kishore to kvell include, but are not limited to, the following:
+
+(a) Technical Confidential Information: This includes, but is not limited to, source code, algorithms, architecture, software designs, technical specifications, and other technical data and information related to kvell's products and services.
+
+(b) Financial Confidential Information: This includes, but is not limited to, financial projections, budgets, revenue data, financial statements, and other financial information related to kvell's business operations.
+
+(c) Business Confidential Information: This includes, but is not limited to, business strategies, business plans, market research, marketing plans, and other business information related to kvell's operations.
+
+(d) Customer Confidential Information: This includes, but is not limited to, customer names, customer contacts, customer purchase history, and other customer-related information.
+
+(e) Legal Confidential Information: This includes, but is not limited to, contracts, intellectual property filings, compliance documents, and other legal information related to kvell's business operations.
+
+3.2. The Confidential Information may be disclosed in various formats, including, but not limited to:
+
+(a) Written documents, including, but not limited to, reports, memos, emails, and other written communications.
+
+(b) Oral discussions, including, but not limited to, meetings, presentations, and other verbal communications.
+
+(c) Digital media, including, but not limited to, electronic files, databases, and other digital information.
+
+3.3. The Confidential Information may be disclosed in various contexts, including, but not limited to:
+
+(a) Meetings and presentations.
+
+(b) Email communications.
+
+(c) Written reports and documents.
+
+(d) Digital media, including, but not limited to, electronic files and databases.
+
+3.4. The Confidential Information may be disclosed by kishore to kvell through various means, including, but not limited to:
+
+(a) In-person meetings.
+
+(b) Video conferencing.
+
+(c) Phone calls.
+
+(d) Email communications.
+
+3.5. The Confidential Information may be stored and maintained by kvell in various formats, including, but not limited to:
+
+(a) Electronic files and databases.
+
+(b) Written documents and reports.
+
+(c) Digital media, including, but not limited to, CDs, DVDs, and other digital storage devices.
+
+3.6. The Confidential Information may be disclosed to third parties by kvell only with the prior written consent of kishore, which consent may be revoked at any time.
+
+3.7. The Confidential Information shall be kept confidential and shall not be disclosed to any third party without the prior written consent of kishore, except as permitted under this Agreement or as required by law.

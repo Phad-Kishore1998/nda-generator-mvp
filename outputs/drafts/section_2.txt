@@ -1,0 +1,27 @@
+SECTION 2: DEFINITION OF CONFIDENTIAL INFORMATION
+
+2.1. For the purposes of this Agreement, "Confidential Information" means all information, whether written or oral, that is disclosed by kishore to kvell, including but not limited to:
+
+(a) Technical Information: all source code, algorithms, architecture, and other technical data and materials related to the development, design, and operation of software and technology products and services;
+
+(b) Financial Information: all financial projections, budgets, revenue data, and other financial information related to kishore's business operations;
+
+(c) Business Information: all business strategies, plans, market research, and other business-related information related to kishore's operations;
+
+(d) Customer Information: all customer names, contacts, purchase history, and other customer-related information;
+
+(e) Legal Information: all contracts, intellectual property filings, compliance documents, and other legal-related information.
+
+2.2. Confidential Information does not include information that:
+
+(a) is or becomes publicly available through no fault of kvell;
+
+(b) was already known to kvell prior to disclosure by kishore;
+
+(c) is developed by kvell independently of any information disclosed by kishore;
+
+(d) is required to be disclosed by law, regulation, or court order, provided that kvell gives kishore prompt written notice of such requirement and cooperates fully with kishore in seeking a protective order or other remedy.
+
+2.3. Confidential Information will be designated as such by kishore at the time of disclosure, and may be marked as "Confidential" or "Proprietary" or with a similar legend. In the absence of such designation, information will be considered Confidential Information if it is reasonably understood to be confidential or proprietary in nature.
+
+2.4. For the avoidance of doubt, Confidential Information includes, but is not limited to, all information that is contained in documents, records, and other materials that are marked as confidential or proprietary, as well as all information that is disclosed orally or visually.

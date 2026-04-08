@@ -1,0 +1,11 @@
+SECTION 6: BREACH, REMEDIES, AND LIABILITY
+
+6.1.  Breach of Obligations. If the Receiving Party breaches any of the obligations set forth in this Agreement, the Disclosing Party shall be entitled to seek injunctive relief, specific performance, or any other equitable remedy available at law or in equity to prevent or remedy such breach. In addition to the foregoing, the Disclosing Party shall also be entitled to recover all damages, costs, and expenses (including reasonable attorneys' fees) incurred by the Disclosing Party in connection with the breach.
+
+6.2.  Remedies. The remedies provided in this Section 6 are cumulative and not exclusive of any other remedies available to the Disclosing Party at law or in equity. The Disclosing Party may pursue any and all remedies available to it under applicable law, including but not limited to, seeking damages, specific performance, or injunctive relief.
+
+6.3.  Indemnification. The Receiving Party shall indemnify, defend, and hold harmless the Disclosing Party, its officers, directors, employees, agents, and affiliates from and against any and all claims, demands, actions, suits, proceedings, judgments, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or related to any breach of this Agreement by the Receiving Party.
+
+6.4.  Limitation of Liability. In no event shall the Receiving Party be liable for any indirect, special, incidental, consequential, or punitive damages, including but not limited to, lost profits, business interruption, or loss of data, arising out of or related to this Agreement, even if the Receiving Party has been advised of the possibility of such damages. The Receiving Party's liability for damages arising out of or related to this Agreement shall be limited to the amount of actual damages suffered by the Disclosing Party, but in no event shall such liability exceed the aggregate amount of the fees paid by the Disclosing Party to the Receiving Party under this Agreement.
+
+6.5.  Governing Law. This Section 6 shall be governed by and construed in accordance with the laws of the Republic of India. Any disputes arising out of or related to this Section 6 shall be resolved through arbitration in accordance with the rules of the Indian Council of Arbitration, and the seat of arbitration shall be [Address to be inserted].
