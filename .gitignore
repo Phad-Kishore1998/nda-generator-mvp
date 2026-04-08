@@ -1,6 +1,6 @@
 # Environment
 .env
-venv/
+myenv/
 __pycache__/
 *.pyc
 *.pyo

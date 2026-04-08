@@ -1,19 +1,15 @@
 SECTION 1: PURPOSE, PARTIES, AND CONTEXT
 
-1.1 This Non-Disclosure Agreement ("Agreement") is entered into on this 9th day of April, 2026 ("Effective Date") by and between:
+1.1. This Non-Disclosure Agreement ("Agreement") is entered into on April 09, 2026 ("Effective Date"), by and between Kishore ("Disclosing Party") and Kvell Dynamics ("Receiving Party").
 
-kishore ("Disclosing Party"), having its principal place of business at [Address to be inserted], and
+1.2. The Disclosing Party is an employee of Kvell Dynamics, selected for a job position, and will be sharing confidential information with the Receiving Party in the course of their employment.
 
-kvell ("Receiving Party"), having its principal place of business at [Address to be inserted].
+1.3. The purpose of this Agreement is to establish the terms and conditions under which the Disclosing Party will share confidential information with the Receiving Party, and to ensure that such information is kept confidential and not disclosed to any third party.
 
-1.2 The Disclosing Party and the Receiving Party are referred to collectively as the "Parties".
+1.4. The confidential information to be shared includes, but is not limited to, technical information related to source code, algorithms, and architecture, financial information related to projections, budgets, and revenue data, business strategies and plans, market research, customer data, and legal information related to contracts, IP filings, and compliance documents.
 
-1.3 The purpose of this Agreement is to establish the terms and conditions under which the Disclosing Party will disclose confidential information to the Receiving Party, in connection with the employment relationship between the Parties, where kishore is hired at kvell.
+1.5. The Receiving Party acknowledges that the confidential information will be shared with them in order to facilitate their employment with Kvell Dynamics and to enable them to perform their job duties effectively.
 
-1.4 The Parties acknowledge that, in the course of their employment relationship, the Disclosing Party will share confidential information with the Receiving Party, including but not limited to, technical, financial, business, customer data, and legal information.
+1.6. The parties agree that this Agreement is intended to be a reasonable and necessary measure to protect the confidential information of Kvell Dynamics, and that it is a material term of the employment relationship between the parties.
 
-1.5 The Parties understand that the confidential information to be shared is sensitive and valuable to the Disclosing Party, and that it is essential to protect such information from unauthorized disclosure.
-
-1.6 The Parties agree to maintain the confidentiality of the confidential information disclosed under this Agreement, and to use such information solely for the purpose of the employment relationship between the Parties.
-
-1.7 The Parties acknowledge that the employment relationship between them is a critical factor in the disclosure of confidential information, and that the terms and conditions of this Agreement are essential to protect the interests of both Parties.
+1.7. By executing this Agreement, the parties acknowledge that they have read, understand, and agree to be bound by the terms and conditions of this Agreement.

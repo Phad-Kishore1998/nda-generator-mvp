@@ -1,21 +1,21 @@
 SECTION 5: PERMITTED DISCLOSURES AND EXCEPTIONS
 
-5.1. Disclosure is permitted where kishore is compelled to disclose Confidential Information by law or by a court order, provided that kishore gives kvell prompt written notice of such requirement so that kvell may seek a protective order or other appropriate remedy.
+5.1. Disclosure is permitted when Kvell Dynamics is legally compelled to disclose confidential information by a court of competent jurisdiction or other government authority, provided that Kvell Dynamics gives Kishore prompt written notice of such compelled disclosure and cooperates with Kishore to limit the scope of such disclosure.
 
-5.2. Disclosure is not required where the Confidential Information is or becomes publicly available through no fault of kvell, or where the Confidential Information was already in the public domain at the time of disclosure.
+5.2. Disclosure is permitted when the confidential information was in Kvell Dynamics' possession prior to its receipt from Kishore, or was already known to Kvell Dynamics at the time of receipt, as evidenced by written records.
 
-5.3. Disclosure is not required where kvell independently develops the Confidential Information without reference to or reliance on the Confidential Information disclosed by kishore.
+5.3. Disclosure is permitted when the confidential information has entered the public domain through no fault of Kvell Dynamics.
 
-5.4. Disclosure is permitted to kishore's advisors, including attorneys, accountants, and financial advisors, who have entered into confidentiality agreements with kishore, provided that such disclosure is necessary for the purpose of advising kishore and is made in accordance with the terms of such confidentiality agreements.
+5.4. Disclosure is permitted when Kvell Dynamics independently develops similar confidential information without using or relying on the confidential information received from Kishore.
 
-5.5. Disclosure is permitted to kishore's affiliates, provided that such affiliates have entered into confidentiality agreements with kishore, and such disclosure is made in accordance with the terms of such confidentiality agreements.
+5.5. Disclosure to advisors and affiliates of Kvell Dynamics is permitted, provided that such advisors and affiliates are under a confidentiality obligation at least as restrictive as this Agreement.
 
-5.6. Disclosure is permitted where kishore is required to disclose Confidential Information to regulatory bodies or government agencies, provided that such disclosure is made in accordance with applicable laws and regulations.
+5.6. Disclosure is permitted when Kvell Dynamics is required to disclose confidential information to comply with applicable laws, regulations, or regulatory requirements, provided that Kvell Dynamics gives Kishore prompt written notice of such disclosure and cooperates with Kishore to limit the scope of such disclosure.
 
-5.7. Disclosure is permitted where the Confidential Information is already in the possession of kvell, as demonstrated by kvell's written records, prior to its disclosure by kishore.
+5.7. Disclosure is permitted when Kvell Dynamics is required to disclose confidential information to its auditors or accountants, provided that such auditors or accountants are under a confidentiality obligation at least as restrictive as this Agreement.
 
-5.8. Disclosure is permitted where the Confidential Information is publicly disclosed by a third party who has no obligation to keep such information confidential.
+5.8. Disclosure is permitted when Kvell Dynamics is required to disclose confidential information in connection with a merger, acquisition, or other change of control of Kvell Dynamics, provided that the acquiring party is under a confidentiality obligation at least as restrictive as this Agreement.
 
-5.9. Disclosure is permitted where the Confidential Information is disclosed to a successor or assignee of kvell, provided that such successor or assignee agrees to be bound by the terms of this Agreement.
+5.9. Disclosure is permitted when Kvell Dynamics is required to disclose confidential information to its lawyers, provided that such lawyers are under a confidentiality obligation at least as restrictive as this Agreement.
 
-5.10. Disclosure is permitted where the Confidential Information is required to be disclosed under the laws of India, or under the laws of any other jurisdiction in which kishore or kvell operates, provided that such disclosure is made in accordance with applicable laws and regulations.
+5.10. Disclosure is permitted when Kvell Dynamics is required to disclose confidential information to its insurance carriers or brokers, provided that such insurance carriers or brokers are under a confidentiality obligation at least as restrictive as this Agreement.

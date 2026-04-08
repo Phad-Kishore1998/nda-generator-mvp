@@ -1,31 +1,26 @@
 SECTION 7: MISCELLANEOUS AND GENERAL LEGAL TERMS
 
-7.1. Entire Agreement. This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations, understandings, and agreements between the parties.
+7.1. Entire Agreement. This NDA, including all exhibits and schedules, constitutes the entire agreement between the parties and supersedes all prior negotiations, understandings, and agreements between the parties.
 
-7.2. Term and Termination. This Agreement shall commence on the Effective Date and shall continue for a period of three (3) years from the Effective Date, unless terminated earlier in accordance with the terms of this Agreement. Upon termination, all obligations of the parties under this Agreement shall cease, except for those obligations that by their nature are intended to survive termination.
+7.2. Severability. If any provision of this NDA is held to be invalid or unenforceable, the remaining provisions will remain in full force and effect.
 
-7.3. Return and Destruction of Information. Upon termination of this Agreement or upon request by the Disclosing Party, the Receiving Party shall promptly return to the Disclosing Party all Confidential Information in its possession, custody, or control, and shall destroy all copies of Confidential Information, including any notes, summaries, or other documents prepared by the Receiving Party.
+7.3. Waiver. The failure of either party to enforce any provision of this NDA will not be deemed a waiver of that provision or any other provision of this NDA.
 
-7.4. Entire Agreement. This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations, understandings, and agreements between the parties.
+7.4. Notices. All notices, demands, or communications required or permitted to be given under this NDA must be in writing and must be delivered personally, sent by certified mail, or sent by email to the following addresses:
 
-7.5. Severability. If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions of this Agreement shall remain in full force and effect.
+- To Kvell Dynamics: [Address to be inserted]
+- To Kishore: [Address to be inserted]
 
-7.6. Waiver. The failure of either party to enforce any provision of this Agreement shall not be deemed a waiver of such provision or of the right to enforce such provision in the future.
+7.5. Assignment. This NDA may not be assigned by either party without the prior written consent of the other party.
 
-7.7. Notices. All notices required or permitted to be given under this Agreement shall be in writing and shall be delivered personally, sent by certified mail, or sent by email to the addresses set forth below:
+7.6. Governing Law. This NDA will be governed by and construed in accordance with the laws of India.
 
-kishore
-[Address to be inserted]
+7.7. Dispute Resolution. Any disputes arising out of or in connection with this NDA will be resolved through arbitration in accordance with the Indian Arbitration and Conciliation Act, 1996.
 
-kvell
-[Address to be inserted]
+7.8. Counterparts. This NDA may be executed in counterparts, each of which will be deemed an original, but all of which together will constitute one and the same instrument.
 
-7.8. Assignment. Neither party may assign this Agreement or any of its rights or obligations under this Agreement without the prior written consent of the other party.
+7.9. Amendments. This NDA may not be amended or modified except in writing signed by both parties.
 
-7.9. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of India.
+7.10. Return/Destruction of Information. Upon the termination of this NDA, Kishore will return to Kvell Dynamics all confidential information and documents in his possession and destroy all copies thereof.
 
-7.10. Dispute Resolution. Any disputes arising out of or in connection with this Agreement shall be resolved through arbitration in accordance with the rules of the Indian Arbitration and Conciliation Act, 1996.
-
-7.11. Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed to be an original, but all of which together shall constitute one and the same instrument.
-
-7.12. Amendments. This Agreement may not be amended or modified except in writing signed by both parties.
+7.11. Term and Termination. This NDA will commence on the Effective Date and will continue for a period of three (3) years. Upon expiration of the term, this NDA will automatically terminate unless extended in writing by both parties.
